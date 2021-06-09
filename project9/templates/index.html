@@ -1,0 +1,19 @@
+<html>
+    <body>
+        <h1> welcome to pycharm</h1>
+
+    <form method="post" action = "/register/">
+        {% csrf_token %}
+        <input type="text" placeholder="firstname" name="t1">
+        <br>
+        <br>
+        <input type="text" placeholder="lastname" name="t2">
+        <br><br>
+
+        <button type="submit">Register</button>
+
+
+
+    </form>
+    </body>
+</html>
