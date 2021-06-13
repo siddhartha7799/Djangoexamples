@@ -1,0 +1,31 @@
+#satya
+{
+    font-size: 35px;
+    color:orange;
+    text-shadow: black 5px 5px 5px;
+}
+#satya1
+{
+    font-size: 25px;
+    color:navy;
+    font-style:oblique;
+}
+#forgot
+{
+    font-size: 25px;
+    background-color: aquamarine;
+    border-radius: 25px;
+    border-color: black;
+    border-width:2px;
+    border-style: solid;
+}
+#new
+{
+    background-color: orange;
+    font-style: italic;
+    border-radius: 25px;
+    border-color: aquamarine;
+    border-width: 2px;
+    border-style:solid ;
+
+}
